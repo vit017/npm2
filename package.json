@@ -1,0 +1,16 @@
+{
+  "name": "pr2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "devops_skillfactory_npm_packet_one": "^1.0.0",
+    "jquery": "^3.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
